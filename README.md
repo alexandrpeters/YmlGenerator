@@ -27,7 +27,7 @@ Installation
 Run composer require
 
 ```bash
-composer require alexandrpeters/yml-generator
+composer require avpet979/yml-generator
 ```
 
 
@@ -35,7 +35,7 @@ Or add this to your `composer.json` file:
 
 ```json
 "require": {
-	"alexandrpeters/yml-generator": "dev-master",
+	"avpet979/yml-generator": "dev-master",
 }
 ```
 
