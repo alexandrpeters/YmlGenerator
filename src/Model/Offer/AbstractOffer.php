@@ -662,9 +662,9 @@ abstract class AbstractOffer implements OfferInterface
     public function setDimensions($length, $width, $height)
     {
         $dimensions = [
-            \round((float) $length, 3),
-            \round((float) $width, 3),
-            \round((float) $height, 3),
+            $length / 10,
+            $width / 10,
+            $height / 10,
         ];
 
         $this->dimensions = \implode('/', $dimensions);
