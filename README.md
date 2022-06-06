@@ -27,7 +27,7 @@ Installation
 Run composer require
 
 ```bash
-composer require bukashk0zzz/yml-generator
+composer require alexandrpeters/yml-generator
 ```
 
 
