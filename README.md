@@ -35,7 +35,7 @@ Or add this to your `composer.json` file:
 
 ```json
 "require": {
-	"bukashk0zzz/yml-generator": "dev-master",
+	"alexandrpeters/yml-generator": "dev-master",
 }
 ```
 
