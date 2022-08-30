@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Bukashk0zzz\YmlGenerator;
+namespace Avpet979\YmlGenerator;
 
-use Bukashk0zzz\YmlGenerator\Model\Category;
-use Bukashk0zzz\YmlGenerator\Model\Currency;
-use Bukashk0zzz\YmlGenerator\Model\Delivery;
-use Bukashk0zzz\YmlGenerator\Model\Offer\OfferCondition;
-use Bukashk0zzz\YmlGenerator\Model\Offer\OfferGroupAwareInterface;
-use Bukashk0zzz\YmlGenerator\Model\Offer\OfferInterface;
-use Bukashk0zzz\YmlGenerator\Model\Offer\OfferParam;
-use Bukashk0zzz\YmlGenerator\Model\ShopInfo;
+use Avpet979\YmlGenerator\Model\Category;
+use Avpet979\YmlGenerator\Model\Currency;
+use Avpet979\YmlGenerator\Model\Delivery;
+use Avpet979\YmlGenerator\Model\Offer\OfferCondition;
+use Avpet979\YmlGenerator\Model\Offer\OfferGroupAwareInterface;
+use Avpet979\YmlGenerator\Model\Offer\OfferInterface;
+use Avpet979\YmlGenerator\Model\Offer\OfferParam;
+use Avpet979\YmlGenerator\Model\ShopInfo;
 
 /**
  * Class Generator
