@@ -1,8 +1,8 @@
 {
-    "name": "bukashk0zzz/yml-generator",
+    "name": "avpet979/yml-generator",
     "description": "YML (Yandex Market Language) file generator",
     "keywords": ["yml", "yandex", "market", "yml-generator"],
-    "homepage": "https://github.com/Bukashk0zzz/YmlGenerator",
+    "homepage": "https://github.com/avpet979/YmlGenerator",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     ],
     "support": {
         "email": "bukashk0zzz@gmail.com",
-        "issues": "https://github.com/Bukashk0zzz/YmlGenerator/issues"
+        "issues": "https://github.com/avpet979/YmlGenerator/issues"
     },
     "require": {
         "php": ">=5.6.1",
