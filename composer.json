@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Bukashk0zzz\\YmlGenerator\\": "src/"
+            "Avpet979\\YmlGenerator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bukashk0zzz\\YmlGenerator\\Tests\\": "tests/"
+            "Avpet979\\YmlGenerator\\Tests\\": "tests/"
         }
     }
 }
