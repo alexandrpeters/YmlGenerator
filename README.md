@@ -45,13 +45,13 @@ Usage examples
 ```php
 <?php
 
-use Bukashk0zzz\YmlGenerator\Model\Offer\OfferSimple;
-use Bukashk0zzz\YmlGenerator\Model\Category;
-use Bukashk0zzz\YmlGenerator\Model\Currency;
-use Bukashk0zzz\YmlGenerator\Model\Delivery;
-use Bukashk0zzz\YmlGenerator\Model\ShopInfo;
-use Bukashk0zzz\YmlGenerator\Settings;
-use Bukashk0zzz\YmlGenerator\Generator;
+use Avpet979\YmlGenerator\Model\Offer\OfferSimple;
+use Avpet979\YmlGenerator\Model\Category;
+use Avpet979\YmlGenerator\Model\Currency;
+use Avpet979\YmlGenerator\Model\Delivery;
+use Avpet979\YmlGenerator\Model\ShopInfo;
+use Avpet979\YmlGenerator\Settings;
+use Avpet979\YmlGenerator\Generator;
 
 $file = tempnam(sys_get_temp_dir(), 'YMLGenerator');
 $settings = (new Settings())
