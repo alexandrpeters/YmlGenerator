@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Bukashk0zzz\YmlGenerator\Model\Offer;
+namespace Avpet979\YmlGenerator\Model\Offer;
 
 /**
  * Interface Offer

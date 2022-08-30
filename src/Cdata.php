@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Bukashk0zzz\YmlGenerator;
+namespace Avpet979\YmlGenerator;
 
 /**
  * Represents a value that should be written to XML as CDATA
