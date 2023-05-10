@@ -116,7 +116,7 @@ class Generator
         $this->writer->startDTD('yml_catalog', null, 'shops.dtd');
         $this->writer->endDTD();
         $this->writer->startElement('yml_catalog');
-        $this->writer->writeAttribute('date', \date('Y-m-d\TH:i:sP'));
+        $this->writer->writeAttribute('date', \date('Y-m-d\TH:i'));
         $this->writer->startElement('shop');
     }
 
